@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Push-Location \\.\\\\cintac-cotizador; vercel\\.cmd inspect https://cintac-cotizador-vert\\.vercel\\.app --json --non-interactive; Pop-Location$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
